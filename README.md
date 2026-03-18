@@ -16,8 +16,8 @@ This repository contains a full-scope SOC investigation of a targeted phishing c
 ## Key Findings  
 **Attack Vector**: Internal Phishing via compromised account `23csu141@ncuindia.edu`.  
 **Malicious Artifacts**:  
-    **File**: `help.pdf.py` (Python executable disguised with a double extension).  
-    **URL**: A redirect from a look-alike domain to `evil.com`.  
+      **File**: `help.pdf.py` (Python executable disguised with a double extension).  
+      **URL**: A redirect from a look-alike domain to `evil.com`.  
 **Authentication**: Found SPF, DKIM, and DMARC failures, indicating a lack of email security validation.
 
 ## Remediation Strategy
