@@ -163,5 +163,4 @@ RECOMMENDATION:
 ---
 
 **Author**: Anjali Saini  
-**Status**: Complete Investigation Case Study
-**Role**: Cybersecurity Student / Aspiring SOC Analyst
+**Status**: Complete Investigation Case Study | **Role**: Cybersecurity Student / Aspiring SOC Analyst
