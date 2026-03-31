@@ -4,7 +4,7 @@ A practical incident response project demonstrating real-world phishing email an
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 This project documents a complete phishing investigation workflow from initial alert to final incident report. It simulates a realistic SOC L1 analyst scenario where a suspicious email requires thorough investigation to determine legitimacy and threat level.
 
@@ -12,7 +12,7 @@ This project documents a complete phishing investigation workflow from initial a
 
 ---
 
-## 🔍 Investigation Steps
+## Investigation Steps
 
 ### 1. Email Header Analysis
 - **Tool**: PhishTool
@@ -42,7 +42,7 @@ This project documents a complete phishing investigation workflow from initial a
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose | Finding |
 |------|---------|---------|
@@ -53,10 +53,10 @@ This project documents a complete phishing investigation workflow from initial a
 
 ---
 
-## 📊 Investigation Results
+## Investigation Results
 
 ### Email Classification
-- **Status**: **MALICIOUS** ⚠️
+- **Status**: **MALICIOUS** 
 - **Threat Level**: **HIGH**
 - **Action**: DELETE & BLOCK
 
@@ -77,7 +77,7 @@ File Name: help.pdf.py
 
 ---
 
-## 📝 Incident Report Template
+## Incident Report Template
 
 ```
 INCIDENT REPORT - PHISHING EMAIL
@@ -106,7 +106,7 @@ RECOMMENDATION:
 
 ---
 
-## 🎯 Key Learnings
+## Key Learnings
 
 ### Email Spoofing
 - Attackers spoof legitimate company domains
@@ -131,7 +131,7 @@ RECOMMENDATION:
 
 ---
 
-## 📚 Resources & References
+## Resources & References
 
 - [MITRE ATT&CK - Phishing (T1566)](https://attack.mitre.org/techniques/T1566/)
 - [Cyber Kill Chain - Reconnaissance & Weaponization](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
@@ -142,7 +142,7 @@ RECOMMENDATION:
 
 ---
 
-## 🔗 Related Documentation
+## Related Documentation
 
 - [PhishTool User Guide](https://www.phishtool.com/)
 - [VirusTotal API Documentation](https://developers.virustotal.com/)
@@ -150,7 +150,7 @@ RECOMMENDATION:
 
 ---
 
-## 📈 Skills Developed
+## Skills Developed
 
 ✓ Email forensics and header analysis  
 ✓ Phishing investigation procedures  
